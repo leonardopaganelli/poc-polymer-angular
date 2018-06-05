@@ -1,0 +1,20 @@
+{
+  "name": "poc-angular",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^2.0.0",
+    "paper-checkbox": "PolymerElements/paper-checkbox#^2.0.4",
+    "paper-input": "PolymerElements/paper-input#^2.2.2"
+  }
+}
